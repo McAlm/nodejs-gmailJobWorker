@@ -1,6 +1,6 @@
-# My Awesome Code
+# nodejs gmail JobWorker
 
-This code does some amazing things that will blow your mind!
+This demo projects provides a demo jobworker implementation that creates an ics file and sends it via gmail api to a recipient.
 
 ## Installation
 
