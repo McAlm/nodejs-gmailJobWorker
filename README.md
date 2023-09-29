@@ -17,4 +17,8 @@ https://github.com/camunda-community-hub/zeebe-client-node-js#zero-conf-construc
 This demo project uses gmail api, to make it work you need a gmail developer account. You need to create an application, create an Oauth2 client and give permissions to this app to access gmail api. Please consult the gmail documentation how to do this.
 
 
+## Run the worker
+```node jobWorker.js```
+
+
 
